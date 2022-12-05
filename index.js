@@ -13,5 +13,5 @@ let random= Math.floor(Math.random() * 100)+1;
  let mod= num3 % num4;
 
  //---------------------
- let max= 20;
+ let max= (2,17,1,20);
 
